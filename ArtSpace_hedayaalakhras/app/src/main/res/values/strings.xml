@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_visit_website">Visit Website</string>
+    <string name="btn_back_main">Back to Main</string>
+    <string name="artwork_desc">Artwork image</string>
+    <string name="website_url">https://developer.android.com</string>
+
+</resources>
